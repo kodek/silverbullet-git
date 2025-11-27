@@ -1,12 +1,6 @@
----
-description: Git plug for SilverBullet
-version: "1.0"
-assets:
-- file: git.plug.js
-  target: /_plug/git.plug.js
-tags: meta/library
----
 # SilverBullet plug for Git
+
+**IMPORTANT NOTE:** This plug has now been deprecated in favor of https://github.com/zefhemel/silverbullet-libraries/blob/main/Git.md which you can install using the `Library: Manager` command in v2.3+
 
 Simple git plugin for SilverBullet.
 
